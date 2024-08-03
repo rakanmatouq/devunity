@@ -45,7 +45,7 @@ export const FILTER_ITEMS = [
   {
     title: 'Date of posting',
     content: 'Content for the third item.',
-    optionList: ['Onsite', 'Hybrid', 'Remote'],
+    optionList: ['Today', 'Yesterday', 'Weeks Ago'],
   },
   {
     title: 'Languages',
@@ -65,7 +65,7 @@ export const FILTER_ITEMS = [
   {
     title: 'Full time/ Part time',
     content: 'Content for the third item.',
-    optionList: ['Onsite', 'Hybrid', 'Remote'],
+    optionList: ['Full time', 'Part Time'],
   },
 ];
 
